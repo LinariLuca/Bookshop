@@ -1,0 +1,85 @@
+{
+    "Books": [
+        {
+            "Title": "The Hobbit",
+            "Author": "J.R.R. Tolkien",
+            "ISBN": "9780261102217",
+            "Format": "Papier",
+            "Language": "English",
+            "Year": "1937",
+            "Publishing_house": "George Allen & Unwin"
+        },
+        {
+            "Title": "1984",
+            "Author": "George Orwell",
+            "ISBN": "9780452284234",
+            "Format": "Papier",
+            "Language": "English",
+            "Year": "1949",
+            "Publishing_house": "Secker & Warburg"
+        },
+        {
+            "Title": "To Kill a Mockingbird",
+            "Author": "Harper Lee",
+            "ISBN": "9780061120084",
+            "Format": "Papier",
+            "Language": "English",
+            "Year": "1960",
+            "Publishing_house": "J.B. Lippincott & Co."
+        },
+        {
+            "Title": "Pride and Prejudice",
+            "Author": "Jane Austen",
+            "ISBN": "9780141439518",
+            "Format": "Papier",
+            "Language": "English",
+            "Year": "1813",
+            "Publishing_house": "T. Egerton"
+        },
+        {
+            "Title": "Il nome della rosa",
+            "Author": "Lukaku",
+            "ISBN": "932840934852095",
+            "Format": "ebook",
+            "Language": "Italian",
+            "Year": "sdsf332",
+            "Publishing_house": "Bompiani"
+        },
+        {
+            "Title": "Harry Potter and the Philosopher's Stone",
+            "Author": "J.K. Rowling",
+            "ISBN": "9780747532699",
+            "Format": "Papier",
+            "Language": "English",
+            "Year": "1997",
+            "Publishing_house": "Bloomsbury"
+        },
+        {
+            "Title": "The Great Gatsby",
+            "Author": "F. Scott Fitzgerald",
+            "ISBN": "9780743273565",
+            "Format": "Papier",
+            "Language": "English",
+            "Year": "1925",
+            "Publishing_house": "Scribner"
+        },
+        {
+            "Title": "The Catcher in the Rye",
+            "Author": "J.D. Salinger",
+            "ISBN": "9780316769488",
+            "Format": "Papier",
+            "Language": "English",
+            "Year": "1951",
+            "Publishing_house": "Little, Brown and Company"
+        },
+        {
+            "Title": "Don Quixote",
+            "Author": "Miguel de Cervantes",
+            "ISBN": "9780060934347",
+            "Format": "Papier",
+            "Language": "English",
+            "Year": "1605",
+            "Publishing_house": "Harper Perennial Modern Classics"
+        }
+    ]
+}
