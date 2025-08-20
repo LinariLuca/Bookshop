@@ -33,7 +33,6 @@ It manages a JSON-backed warehouse and lets you **add, modify, delete**, and **l
 
 Each book has the following structure:
 
-json
 {
   "Title": "Moby Dick",
   "Author": "Herman Melville",
